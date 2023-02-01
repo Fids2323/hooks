@@ -1,5 +1,5 @@
 import React from 'react'
-import CardWrapper from '../../common/Card'
+import CardWrapper from '../../common/card'
 
 const withPropsStyles = (Component) => (props) => {
   return (

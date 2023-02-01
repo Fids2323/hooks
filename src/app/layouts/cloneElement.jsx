@@ -1,6 +1,6 @@
 import React from 'react'
 import BlockQuote from '../components/common/blockQuote'
-import CardWrapper from '../components/common/Card'
+import CardWrapper from '../components/common/card'
 import CollapseWrapper from '../components/common/collapse'
 import Divider from '../components/common/divider'
 import SmallTitle from '../components/common/typografy/smallTitle'

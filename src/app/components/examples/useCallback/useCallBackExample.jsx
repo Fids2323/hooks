@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect, useCallback } from 'react'
-import CardWrapper from '../../common/Card'
+import CardWrapper from '../../common/card'
 import SmallTitle from '../../common/typografy/smallTitle'
 
 const UseCallBackExample = () => {

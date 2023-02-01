@@ -1,5 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react'
-import CardWrapper from '../../common/Card'
+import CardWrapper from '../../common/card'
 import SmallTitle from '../../common/typografy/smallTitle'
 import Divider from '../../common/divider'
 

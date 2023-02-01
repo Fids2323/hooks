@@ -1,6 +1,6 @@
 import React from 'react'
 import CollapseWrapper from '../common/collapse'
-import Card from '../common/Card'
+import Card from '../common/card'
 import PropTypes from 'prop-types'
 
 const HocExercise = () => {

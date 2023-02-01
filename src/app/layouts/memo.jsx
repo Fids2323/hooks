@@ -1,6 +1,6 @@
 import React from 'react'
 import CollapseWrapper from '../components/common/collapse'
-import CardWrapper from '../components/common/Card'
+import CardWrapper from '../components/common/card'
 import MemoWithUseCallbackExample from '../components/examples/memo/memoWithUseCallbackExample'
 import { Link } from 'react-router-dom'
 import MemoDependencyFunctionExample from '../components/examples/memo/memoDependencyFunctionExample'
